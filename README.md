@@ -1,7 +1,7 @@
 # ASJ 2025 monthly article views
 Describes how to get monthly article views (both galley file downloads and in-screen full-text reads using the PDF.JS PDF Viewer) from OJS 3.3 using the API as one of the metrics for the SSHRC ASJ 2025 competition.
 
-See [Readership data and impact measures]([url](https://sshrc-crsh.canada.ca/en/funding/opportunities/aid-scholarly-journals/2025/competition/instructions/applicant.aspx#20)) for more info.
+See [Readership data and impact measures](https://sshrc-crsh.canada.ca/en/funding/opportunities/aid-scholarly-journals/2025/competition/instructions/applicant.aspx#20) for more info.
 
 ## Comparison of data sources
 * **Statistics > Articles**: this dashboard can be useful for doing things the long way. If you set the time from to the reporting period and then use the graphic interface to switch to Files and Monthly, you can mouse over the dots in the graphs to get the totals. As far as I can determine, this includes both full-text galley views in the OJS reader and downloads. Slow and kludgy, but functional.
